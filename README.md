@@ -23,9 +23,9 @@ Com o crescimento do comércio eletrônico e a necessidade de proporcionar exper
 
 <div style="display: flex; justify-content: space-around;" align="center">
 
-   <img src="https://github.com/Tiagommoraes/Trabalho-Supermercado/blob/main/imagens/Captura%20de%20tela%202024-06-10%20191629.png"  />
+   <img src="https://github.com/Tiagommoraes/TrabalhoPOO_LP/blob/main/imagens/Captura%20de%20tela%202024-06-10%20191629.png"  />
    
-   <img src="https://github.com/Tiagommoraes/Trabalho-Supermercado/blob/main/imagens/Captura%20de%20tela%202024-06-10%20191653.png"  />
+   <img src="https://github.com/Tiagommoraes/TrabalhoPOO_LP/blob/main/imagens/Captura%20de%20tela%202024-06-10%20191653.png"  />
 </div>
 
 2. **Tela Vitrine**
