@@ -78,6 +78,16 @@ Pix
 
 
 
+https://github.com/Tiagommoraes/TrabalhoPOO_LP/assets/142947043/e3b38d6c-db3c-4191-bcf8-37ed07cf44a7
+
+**Conclusão**
+O desenvolvimento deste sistema de supermercado demonstra a aplicação prática dos conceitos de programação orientada a objetos e a importância de um design de interface centrado no usuário. Através da implementação de funcionalidades simples e uma interface amigável, o sistema atende às necessidades tanto dos clientes quanto dos administradores do supermercado, proporcionando uma experiência de compra fluida e eficiente.
+
+
+
+
+
+
 
 
    
