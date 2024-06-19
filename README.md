@@ -20,12 +20,16 @@ Com o crescimento do comércio eletrônico e a necessidade de proporcionar exper
    A Tela de Login permite que os usuários acessem suas contas para gerenciar suas compras e visualizar o histórico de pedidos. As funcionalidades principais incluem:
    Campos para inserção de Usuário e senha.
    Botão para realizar o login e para cancelar.
+   
+   ### Dados para acessar a tela.
+   **USUÁRIO**: Admin     
+   **SENHA**: 1234
 
 <div style="display: flex; justify-content: space-around;" align="center">
 
-   <img src="https://github.com/Tiagommoraes/TrabalhoPOO_LP/blob/main/imagens/Captura%20de%20tela%202024-06-10%20191629.png"  />
+   <img src="https://github.com/Tiagommoraes/TrabalhoPOO_LP/blob/main/Img/Captura de tela 2024-06-15 204012.png" />
+   <img src="https://github.com/Tiagommoraes/TrabalhoPOO_LP/blob/main/Img/Captura de tela 2024-06-15 204034.png" />
    
-   <img src="https://github.com/Tiagommoraes/TrabalhoPOO_LP/blob/main/imagens/Captura%20de%20tela%202024-06-10%20191653.png"  />
 </div>
 
 2. **Tela Vitrine**
@@ -34,8 +38,8 @@ Com o crescimento do comércio eletrônico e a necessidade de proporcionar exper
 Botão para adicionar produtos ao carrinho de compras, botão para ir para o carrinho onde será efetuado o pagamento, e o botão de sair.
 
 <p align="center">
-  <img src="https://github.com/Tiagommoraes/Trabalho-Supermercado/blob/main/imagens/Captura%20de%20tela%202024-06-15%20204050.png" width="400" />
-  <img src="https://github.com/Tiagommoraes/Trabalho-Supermercado/blob/main/imagens/Captura%20de%20tela%202024-06-15%20204137.png" width="400" />
+  <img src="https://github.com/Tiagommoraes/TrabalhoPOO_LP/blob/main/Img/Captura%20de%20tela%202024-06-15%20204050.png" width="400" />
+  <img src="https://github.com/Tiagommoraes/TrabalhoPOO_LP/blob/main/Img/Captura%20de%20tela%202024-06-15%20204137.png" width="400" />
 </p>
 
 
@@ -49,7 +53,9 @@ Exibição do total da compra.
 Botão para proceder ao pagamento.
 
 <p align="center">
-<img src="https://github.com/Tiagommoraes/Trabalho-Supermercado/blob/main/imagens/Captura de tela 2024-06-15 220422.png"  width="400"/>
+   
+<img src="https://github.com/Tiagommoraes/TrabalhoPOO_LP/blob/main/Img/Captura de tela 2024-06-15 220422.png"  width="400"/>
+
 </p>
 
 4. **Tela de Pagamento**
@@ -61,7 +67,7 @@ Dinheiro
 Pix
 
 <p align="center">
-<img src="https://github.com/Tiagommoraes/Trabalho-Supermercado/blob/main/imagens/Captura de tela 2024-06-15 204319.png"  width="400"/>
+<img src="https://github.com/Tiagommoraes/TrabalhoPOO_LP/blob/main/Img/Captura de tela 2024-06-15 204319.png"  width="400"/>
 </p>
 
 > Neste projeto, foram utilizados os 4 pilares da programação orientado à objetos, que são eles:
