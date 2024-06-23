@@ -21,7 +21,7 @@ Com o crescimento do comércio eletrônico e a necessidade de proporcionar exper
    Campos para inserção de Usuário e senha.
    Botão para realizar o login e para cancelar.
    
-   ### Dados para acessar a tela.
+   ### Dados para acessar o Sistema.
    **USUÁRIO**: Admin     
    **SENHA**: 1234
 
