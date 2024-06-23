@@ -76,6 +76,9 @@ Pix
 3.**Polimorfismo:** O polimorfismo permite que objetos de diferentes classes sejam tratados através de uma interface comum. No sistema, diferentes formas de pagamento (como Cartão de Crédito, Débito, Dinheiro e Pix) implementam uma interface comum na Forma de Pagamento, permitindo o tratamento uniforme dessas classes.
 4.**Abstração:** A abstração envolve a criação de interfaces ou classes abstratas que definem métodos a serem implementados por subclasses. No sistema, a classe Forma de Pagamento pode ser uma classe abstrata que define métodos a serem implementados pelas classes concretas de cada tipo de pagamento.
 
+## Observação:
+O código SQLiteConnection.java apresentado não possui dependências diretas de bibliotecas externas como MySQL ou MongoDB. Ele funciona de forma independente utilizando apenas o driver JDBC para SQLite, que já está incluso na maioria das plataformas Java.
+
 5.**Diagrama**
 
    <p align="center">
