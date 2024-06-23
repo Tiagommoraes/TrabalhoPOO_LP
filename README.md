@@ -76,11 +76,19 @@ Pix
 3.**Polimorfismo:** O polimorfismo permite que objetos de diferentes classes sejam tratados através de uma interface comum. No sistema, diferentes formas de pagamento (como Cartão de Crédito, Débito, Dinheiro e Pix) implementam uma interface comum na Forma de Pagamento, permitindo o tratamento uniforme dessas classes.
 4.**Abstração:** A abstração envolve a criação de interfaces ou classes abstratas que definem métodos a serem implementados por subclasses. No sistema, a classe Forma de Pagamento pode ser uma classe abstrata que define métodos a serem implementados pelas classes concretas de cada tipo de pagamento.
 
+5.**Diagrama**
 
+   <p align="center">
+  <img src="https://github.com/Tiagommoraes/TrabalhoPOO_LP/blob/main/Img/Diagrama TrabalhoPOO_LP.jpg" width="850" />
+   </p>
+  
+
+6.**Video**
 
 https://github.com/Tiagommoraes/TrabalhoPOO_LP/assets/142947043/e3b38d6c-db3c-4191-bcf8-37ed07cf44a7
 
-5. **Conclusão**
+
+6. **Conclusão**
 
 O desenvolvimento deste sistema de supermercado demonstra a aplicação prática dos conceitos de programação orientada a objetos e a importância de um design de interface centrado no usuário. Através da implementação de funcionalidades simples e uma interface amigável, o sistema atende às necessidades tanto dos clientes quanto dos administradores do supermercado, proporcionando uma experiência de compra fluida e eficiente.
 
